@@ -1,3 +1,4 @@
+# EDR Home Lab: Attack and Defense
 **Project:**
 
 This lab is dedicated to simulating a real cyber attack and endpoint
@@ -12,8 +13,7 @@ EDR solution.
 
 utm_campaign=post&utm_medium=web
 
-![](vertopal_fa1d1801ea58461baf81334156427f0e/media/image13.png){width="5.90625in"
-height="3.648005249343832in"}
+<img src="https://github.com/muja789/EDR-Project/tree/main/EDR-Project/media/image13.png" width="733" height="58.176" />
 
 **VM Installation:**
 
