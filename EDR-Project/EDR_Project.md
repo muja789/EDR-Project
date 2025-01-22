@@ -1,5 +1,5 @@
 # EDR Home Lab: Attack and Defense
-**Project:**
+## Project:
 
 This lab is dedicated to simulating a real cyber attack and endpoint
 detection and response. Utilizing Eric Capuano\'s guide online, I will
@@ -11,6 +11,7 @@ EDR solution.
 **Eric Capuano\'s Guide:**
 Eric Capuano's Guide: https://blog.ecapuano.com/p/so-you-want-to-be-a-soc-analyst-intro?utm_campaign=post&utm_medium=web
 
+#
 
 <img src="https://github.com/muja789/EDR-Project/tree/main/EDR-Project/media/image13.png" width="567" height="346" />
 
