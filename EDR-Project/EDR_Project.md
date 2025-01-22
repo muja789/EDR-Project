@@ -74,7 +74,6 @@ The setup of LimaCharlie is completed here.
 
 Now lets setup the Sliver C2 in the attacker(ubuntu) machine,
 
-#
 Below are the commands:
 
 wget
@@ -88,7 +87,6 @@ chmod +x /usr/local/bin/sliver-server
 \# install mingw-w64 for additional capabilities
 
 apt install -y mingw-w64
-#
 
 Created a directory as well named sliver.
 
