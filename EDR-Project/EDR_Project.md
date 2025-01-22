@@ -35,8 +35,7 @@ the machines are using this network.
 
 Lets setup the windows machine. At first installing sysmon.
 
-![](vertopal_fa1d1801ea58461baf81334156427f0e/media/image1.png){width="5.40625in"
-height="2.6155632108486437in"}
+<img src="https://github.com/muja789/EDR-Project/tree/main/EDR-Project/media/image1.png" width="519" height="250" />
 
 Created a free LimaCharlie account and logged in. Lets setup LimaCharlie
 
