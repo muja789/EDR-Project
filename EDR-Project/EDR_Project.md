@@ -13,7 +13,7 @@ Eric Capuano's Guide: https://blog.ecapuano.com/p/so-you-want-to-be-a-soc-analys
 
 #
 
-<img src="https://github.com/muja789/EDR-Project/tree/main/EDR-Project/media/image13.png" width="567" height="346" />
+<img src="https://github.com/muja789/EDR-Project/blob/main/EDR-Project/media/image13.png" width="567" height="346" />
 
 **VM Installation:**
 
