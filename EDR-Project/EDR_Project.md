@@ -11,7 +11,7 @@ EDR solution.
 **Eric Capuano\'s Guide:**
 Eric Capuano's Guide: https://blog.ecapuano.com/p/so-you-want-to-be-a-soc-analyst-intro?utm_campaign=post&utm_medium=web
 
-<img src="https://github.com/muja789/EDR-Project/tree/main/EDR-Project/media/image13.png" width="733" height="58.176" />
+<img src="https://github.com/muja789/EDR-Project/tree/main/EDR-Project/media/image13.png" width="567" height="346" />
 
 **VM Installation:**
 
