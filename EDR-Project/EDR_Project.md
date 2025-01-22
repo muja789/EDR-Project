@@ -105,6 +105,7 @@ Lets spin up a temporary web server to transfer the payload to windows
 machine.
 
 <img src="https://github.com/muja789/EDR-Project/blob/main/EDR-Project/media/image23.png" width="634" height="130" />
+
 #
 
 Now starting a sliver listener,
@@ -162,6 +163,7 @@ VirusTotal,
 From the "Timeline" tab we can see the telemetry that we generated,
 
 <img src="https://github.com/muja789/EDR-Project/blob/main/EDR-Project/media/image33.png" width="845" height="336" />
+
 #
 
 Now on the attack machine we can simulate an attack to steal credentials
@@ -173,6 +175,7 @@ In LimaCharlie we can check the sensors, observe the
 telemetry,
 
 <img src="https://github.com/muja789/EDR-Project/blob/main/EDR-Project/media/image14.png" width="874" height="164" />
+
 #
 
 Start building a detection rule based on this event,
@@ -184,6 +187,7 @@ Now let's test our rule against the event we built it for,
 
 <img src="https://github.com/muja789/EDR-Project/blob/main/EDR-Project/media/image28.png" width="332" height="144" />
 <img src="https://github.com/muja789/EDR-Project/blob/main/EDR-Project/media/image5.png" width="344" height="128" />
+
 #
 
 Again run the attack to steal credentials but now with the detection,
