@@ -9,9 +9,7 @@ Windows endpoint machine, which will be running \'LimaCharlie\' as an
 EDR solution.
 
 **Eric Capuano\'s Guide:**
-[[https://blog.ecapuano.com/p/so-you-want-to-be-a-soc-analyst-intro]{.underline}](https://blog.ecapuano.com/p/so-you-want-to-be-a-soc-analyst-intro)?
-
-utm_campaign=post&utm_medium=web
+Eric Capuano's Guide: https://blog.ecapuano.com/p/so-you-want-to-be-a-soc-analyst-intro?utm_campaign=post&utm_medium=web
 
 <img src="https://github.com/muja789/EDR-Project/tree/main/EDR-Project/media/image13.png" width="733" height="58.176" />
 
